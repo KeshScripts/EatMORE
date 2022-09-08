@@ -1,0 +1,2 @@
+# EatMORE
+EatMORE is a dummy  App , initially a  Landing Page, for a Food Shop.  As it is, the page is unresponsive  and  static. Future updates would  make it responsive, dynamic  and intuitive.  It is currently made with HTMl ,, CSS, and JavaScript.  I plan to add more JavaScript and also migrate the current stack to  REACT for Frontend,  and either of Django/Node  for Database,. Firebase for Authentication in the future. .  l  will add Cart for keeping Orders and Stripe for making payments like on a real E-commerce.   
